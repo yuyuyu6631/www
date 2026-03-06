@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env*
+!.env.example
+
+# Build/Dist
+build/
+dist/
+
+# OS/Logs/Temp
+.DS_Store
+*.log
+*.sqlite
+inventory.db
+.pytest_cache/
+report.html
+screenshots/
+毕业论文文档/*.docx
+毕业论文文档/*.md
+!毕业论文文档/README.md
+
+# Editor
+.vscode/
+.idea/
+.gemini/
